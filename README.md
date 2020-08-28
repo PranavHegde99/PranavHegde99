@@ -12,7 +12,7 @@
 - 📱Android Development-I did Projects on Android like MyCanteen,MyUpload etc.
 - 🌐Web Development-I Did Project on Web,Like Student Admission System.
 - 💡Front-End Development- experienced in front-end Development.
-- 📚Spirituality and Karma Believer-I red Lots of Book on My Adhyatma Guru Baghawan Sadguru Shridhara Swami(Varadahalli).
+- 📚Spirituality and Karma Believer-I red Lots of Book on My Adhyatma Guru<h5>Baghawan Sadguru Shridhara Swami(Varadahalli)</h5>.
 
 #### 📫 Lets Meet At:
 ##### Say Hi🙋🏻‍♂️,
