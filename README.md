@@ -2,16 +2,17 @@
 
 🔭Studing At M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
 
-#### like to buid project based on //My Idea //.and I would like to intrest more on web Appliaction and Android Development.
+#### I would like to buid project based on //My Idea //.and like to intrest more on web Appliaction and Android Development.
  
  - 🤔Iam looking for an internship and job based on My intrest.
+ - And I very Intrested to work on AWS(Amazon Web Services) cloud Platform.
  
  My Intrested Topics🌱:
 
-- Spirituality and Karma Believer.
 - Android Development.
 - Web Development.
 - Front End Development.
+- Spirituality and Karma Believer.
 
 <!--
 **PranavHegde99/PranavHegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
