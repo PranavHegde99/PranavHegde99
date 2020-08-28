@@ -14,7 +14,7 @@
 - 💡Front-End Development- experienced in front-end Development.
 - 📚Spirituality and Karma Believer-I red Lots of Book on My Adhyatma Guru<B> Baghawan Sadguru Shridhara Swami(Varadahalli)</B>.
 
-##### Say Hi🙋🏻‍♂️ to meet,
+#### Say Hi🙋🏻‍♂️ To Meet-->,
 ---
 > <div>
  <a href="https://www.linkedin.com/in/pranav-hegde-27a569175/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
