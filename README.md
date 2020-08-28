@@ -2,7 +2,7 @@
 
 🔭Studing at M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
 
-#### 👨🏻‍💻I would like to buid project based on //My Idea🔥//.and like to intrest more on web Appliaction and Android Development.
+#### 👨🏻‍💻I would like to build project based on //My Idea🔥//.and like to intrest more on web Appliaction and Android Development.
  
  - 🧐I am looking for an internship and job based on My intrest.
  - 🤔I am very Intrested to work on AWS(Amazon Web Services) cloud Platform.
