@@ -4,6 +4,8 @@ Studing At M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
 
 I like to buid project based on //My Idea //. and i would like to more on web Appliaction and Android Development.
 
+My Intrested Topics:
+-Spirituality and Karma Believer.
 
 <!--
 **PranavHegde99/PranavHegde99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
