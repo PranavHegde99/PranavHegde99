@@ -1,18 +1,18 @@
 ### Hi there,This is Pranav Hegde 👋
 
-🔭Studing At M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
+🔭Studing at M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
 
-#### 👨🏻‍💻I would like to buid project based on //My Idea //.and like to intrest more on web Appliaction and Android Development.
+#### 👨🏻‍💻I would like to buid project based on //My Idea🔥//.and like to intrest more on web Appliaction and Android Development.
  
  - 🧐I am looking for an internship and job based on My intrest.
  - 🤔I am very Intrested to work on AWS(Amazon Web Services) cloud Platform.
  
  My Intrested Topics🌱:
 
-- 📱Android Development.
-- 🌐Web Development.
-- 💡Front End Development.
-- 📚Spirituality and Karma Believer.
+- 📱Android Development-I did Projects on Android like MyCanteen,MyUpload etc.
+- 🌐Web Development-I Did Project on Web,Like Student Admission System.
+- 💡Front-End Development- experienced in front-end Development.
+- 📚Spirituality and Karma Believer-I red Lots of Book on My Adhyatma Guru Baghawan Sadguru Shridhara Swami(Varadahalli).
 
 #### 📫 Lets Meet At:
 ##### Say Hi🙋🏻‍♂️,
