@@ -1,7 +1,8 @@
 ### Hi there,This is Pranav Hegde 👋
 
 Studing At M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
- -I like to buid project based on //My Idea //. and i would like to more on web Appliaction and Android Development.
+
+I like to buid project based on //My Idea //. and i would like to more on web Appliaction and Android Development.
 
 
 <!--
