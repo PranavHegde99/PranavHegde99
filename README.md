@@ -2,7 +2,7 @@
 
 🔭Studing At M.S Ramaiah Institute of Technology,Mattikere(Bangalore,India).
 
-I like to buid project based on //My Idea //. and i would like to more on web Appliaction and Android Development.
+#### like to buid project based on //My Idea //.and I would like to more intrest on web Appliaction and Android Development.
  
  - 🤔Iam looking for an internship and job based on My intrest.
  
