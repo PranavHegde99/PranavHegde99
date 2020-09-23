@@ -23,3 +23,9 @@
 </div>
 
 ---
+<details>
+  <summary>Github Status</summary>
+
+![PranavHegde99's github status](https://github-readme-stats.vercel.app/api?username=PranavHegde99&count_private=true)
+
+</details>
