@@ -22,11 +22,10 @@
  <a href="https://www.instagram.com/pranavhegde859/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
  <a href="https://pranavhegde.netlify.app/"><img src="https://img.shields.io/badge/website--_.svg?style=plastic&logo=appveyor" alt="Website"></a>
 </div>
-
----
----
 <details>
 <summary>Github Status👇</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=PranavHegde99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
 ---
+
+
