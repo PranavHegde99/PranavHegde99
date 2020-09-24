@@ -18,14 +18,13 @@
 ---
 > <div>
  <a href="https://www.linkedin.com/in/pranav-hegde-27a569175/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
- <a href="https://www.instagram.com/pranavhegde859/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
- <a href="https://pranavhegde.netlify.app/"><img src="https://img.shields.io/badge/website--_.svg?style=plastic&logo=appveyor" alt="Website"></a>
+ <a href="https://twitter.com/PranavH19526286"><img src="https://img.shields.io/badge/twitter--_.svg?style=social&logo=twitter" alt="twitter"> </a>
+ <a href="https://www.instagram.com/pranavhegde859/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"> </a>
+ <a href="https://pranavhegde.netlify.app/"><img src="https://img.shields.io/badge/website--_.svg?style=plastic&logo=appveyor" alt="Website"> </a>
 </div>
 
 ---
 <details>
   <summary>Github Status</summary>
-
-![PranavHegde99's github status](https://github-readme-stats.vercel.app/api?username=PranavHegde99&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=PranavHegde99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
