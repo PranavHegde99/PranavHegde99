@@ -16,7 +16,7 @@
 
 #### Say Hi🙋🏻‍♂️ To Meet-->,
 ---
-> <div>
+><div>
  <a href="https://www.linkedin.com/in/pranav-hegde-27a569175/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
  <a href="https://twitter.com/PranavH19526286"><img src="https://img.shields.io/badge/twitter--_.svg?style=social&logo=twitter" alt="twitter"></a>
  <a href="https://www.instagram.com/pranavhegde859/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
